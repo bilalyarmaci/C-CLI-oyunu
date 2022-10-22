@@ -1,6 +1,6 @@
 /***********************************************************************************
 
-İSİM SOYİSİM:   BILAL YARMACI
+İSİM SOYİSİM:   BILYAL MUSTAFA YARMADZHA
 Proje:          ALGORİTMALAR VE PROGRAMLAMA DERSİ - 2021-2022 GÜZ DÖNEMİ PROJESİ
 Proje İsmi:     TAŞ, KAĞIT, MAKAS OYUNU
 
